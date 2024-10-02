@@ -4,7 +4,7 @@
 
 Output:
 
-/Users/patriciomartinez/Library/Java/JavaVirtualMachines/openjdk-22.0.2/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=62388:/Applications/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/patriciomartinez/IdeaProjects/Assignment1/out/production/Assignment1 Main
+''' /Users/patriciomartinez/Library/Java/JavaVirtualMachines/openjdk-22.0.2/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=62388:/Applications/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/patriciomartinez/IdeaProjects/Assignment1/out/production/Assignment1 Main
 INFO count: 3347
 WARN count: 3314
 ERROR count: 3339
@@ -112,3 +112,4 @@ Last 100 Errors:
 [2024-08-23 14:35:20] ERROR Timeout occurred
 
 Process finished with exit code 0
+'''
